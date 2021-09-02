@@ -1,3 +1,3 @@
 # QR-Factorization
 
-House-holder and Gram-schmidt methods QR factorization algorithms written in Python.
+House-holder and Gram-schmidt QR factorization algorithms written in Python.
